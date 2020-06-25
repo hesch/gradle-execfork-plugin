@@ -7,7 +7,7 @@ plugins {
     id("maven")
 }
 
-group = "com.github.psxpaul"
+group = "com.github.hesch"
 version = File("VERSION").readText().trim()
 buildDir = File("build/gradle")
 
